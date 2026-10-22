@@ -1,0 +1,80 @@
+object Form1: TForm1
+  Left = 888
+  Height = 359
+  Top = 163
+  Width = 431
+  Caption = 'Il salvadanaio di Mathias'
+  ClientHeight = 359
+  ClientWidth = 431
+  LCLVersion = '4.2.0.0'
+  object Label1: TLabel
+    Left = 16
+    Height = 15
+    Top = 48
+    Width = 133
+    Caption = 'Che cosa vuoi comprare?'
+  end
+  object Edit1: TEdit
+    Left = 168
+    Height = 23
+    Top = 48
+    Width = 80
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 16
+    Height = 25
+    Top = 136
+    Width = 88
+    Caption = 'Una settimana'
+    TabOrder = 1
+    OnClick = Button1Click
+  end
+  object Label2: TLabel
+    Left = 16
+    Height = 15
+    Top = 88
+    Width = 111
+    Caption = 'Quanto costa (euro)?'
+  end
+  object Edit2: TEdit
+    Left = 168
+    Height = 23
+    Top = 88
+    Width = 80
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 16
+    Height = 25
+    Top = 176
+    Width = 144
+    Caption = 'Quanti giorni mi servono?'
+    TabOrder = 3
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Left = 16
+    Height = 25
+    Top = 216
+    Width = 88
+    Caption = 'Con la paghetta'
+    TabOrder = 4
+    OnClick = Button3Click
+  end
+  object Label3: TLabel
+    Left = 312
+    Height = 15
+    Top = 16
+    Width = 74
+    Caption = 'Mathias Picco'
+  end
+  object Memo1: TMemo
+    Left = 216
+    Height = 224
+    Top = 120
+    Width = 176
+    ScrollBars = ssVertical
+    TabOrder = 5
+  end
+end
