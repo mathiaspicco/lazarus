@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1497193866"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq -FiC:\Users\mathias.picco.PIAMARTA\Documents\lazarus\salvadanaio\lib\x86_64-win64 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FuC:\Users\mathias.picco.PIAMARTA\Documents\lazarus\salvadanaio\ -FUC:\Users\mathias.picco.PIAMARTA\Documents\lazarus\salvadanaio\lib\x86_64-win64\ -FEC:\Users\mathias.picco.PIAMARTA\Documents\lazarus\salvadanaio\ -oC:\Users\mathias.picco.PIAMARTA\Documents\lazarus\salvadanaio\salvadanaio.exe -dLCL -dLCLwin32 salvadanaio.lpr"/>
-</CONFIG>
